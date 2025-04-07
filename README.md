@@ -67,8 +67,6 @@ Each section will include:
 - 🔵 CentOS / Rocky Linux / AlmaLinux
 - 💻 Terminal and Shell (bash)
 - 📦 APT, YUM, DNF
-- 🧰 VirtualBox / VMware
-- 🧾 Markdown documentation
 
 ---
 
